@@ -2,7 +2,6 @@
   "name": "project-1",
   "version": "1.0.0",
   "description": "learning react",
-  "main": "App.js",
   "scripts": {
     "test": "jest",
     "start": "parcel index.html",
