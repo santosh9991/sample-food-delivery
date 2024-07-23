@@ -1,10 +1,13 @@
 # About the APP:
 - Sample Food delivery APP which consumes live Swiggy API to get the restarent data, enables search functionality, Selecting each restarent navigates user
   to restarunt menu page. Add specific item to cart, etc.
-- It covers React Core concepts, React Routing, Readux toolkit, Context, Higher Order components, Functional components, React Hooks, Custom Hooks, tailwindCSS, etc.
+- It covers React Core concepts, React Routing, Readux toolkit, Context, Higher Order components, Functional components, React Hooks, Custom Hooks, tailwindCSS,  Parcel etc.
 
 # igniting the app
-
+- install nodeJS into the local machine
+- Clone the repo
+- run npm install to install the project dependecies
+- run npm start to start the application.
 # Parcel
 - Dev Build
 - Local Server
