@@ -1,4 +1,7 @@
-# namaste-react 
+# About the APP:
+- Sample Food delivery APP which consumes live Swiggy API to get the restarent data, enables search functionality, Selecting each restarent navigates user
+  to restarunt menu page. Add specific item to cart, etc.
+- It covers React Core concepts, React Routing, Readux toolkit, Context, Higher Order components, Functional components, React Hooks, Custom Hooks, tailwindCSS, etc.
 
 # igniting the app
 
@@ -45,7 +48,7 @@
  - useState() - powerful 
  - , useEffect()
 
- # 3 tyypes of testing
+ # 3 types of testing
  - Unit testing
     - test react application in isolation. We use reat testing library to test our application.
  - Integration testing 
